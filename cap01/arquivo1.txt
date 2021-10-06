@@ -1,0 +1,11 @@
+abc
+abc
+10
+20
+30
+x eh 10
+y eh 10
+10
+abc
+xyz
+
